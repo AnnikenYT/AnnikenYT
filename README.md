@@ -1,3 +1,8 @@
+## ⚠️ Short update
+Since I accidentally pushed a Token to the repo (again)
+I will have to private the AnnikenYT/SduiAPI repo until
+Tomorrow, when I can resolve the issue.
+
 ### Hi there 👋
 
 My name is Leo, im a 16 year old Boy from Germany.
