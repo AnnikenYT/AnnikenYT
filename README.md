@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue@3
 - 📫 How to reach me: My [E-Mail](mailto:anniken@mooonshine.net), or Discord (Anniken#0001)
 - 😄 Pronouns: He / Him
+### My Holopins
+[![@annikenyt's Holopin board](https://holopin.io/api/user/board?user=annikenyt)](https://holopin.io/@annikenyt)
 
 ### Code Stats
 ![Card](https://github-readme-stats.vercel.app/api?username=annikenyt&theme=vue-dark)
